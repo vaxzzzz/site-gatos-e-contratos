@@ -1,5 +1,41 @@
 #nav-content
  {
- background-color: whitesmoke;
+ background-color: black;
  }
+ #para{
+    color: aliceblue;
+    size: 30px;
+    position: absolute;
+    right: 0px;
+    width: 300px;
+    padding: 40px;
+ }
+ #para2{
+    color: rgb(255, 255, 255);
+    size: 30px;
+    text-align: left;
+    
+ }
+ #size2{
+
+    text-align: center;
+    color: aliceblue;
+ }
+ #titulo{
+    color: aliceblue;
+    text-align: right;
+
+ }
+ #titulo2{
+    color: aliceblue;
+    text-align: left;
+    
+ }
+ #img{
+
+ }
+ #img2{
+    
+ }
+
  
